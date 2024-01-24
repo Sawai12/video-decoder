@@ -5,13 +5,13 @@
   </a>
 
 ## Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiger7815/tecttoovvvv/blob/main/tecttoovvvv.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sawai/video-decoder)
 
 #
 #
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/tiger7815/tecttoovvvv">
+<a href="https://heroku.com/deploy?template=https://github.com/Sawai/video-decoder">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
